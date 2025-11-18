@@ -113,9 +113,7 @@ class FineTuningManager:
             model_save_path = f"./outputs/models/fine_tuned_{datetime.utcnow().strftime('%Y%m%d_%H%M%S')}"
             os.makedirs(model_save_path, exist_ok=True)
 
-            # In a real implementation, you would save the actual model
-            # model.save_pretrained(model_save_path)
-            # self.tokenizer.save_pretrained(model_save_path)
+            
 
             # Create a placeholder file to indicate completion
             with open(os.path.join(model_save_path, "training_complete.txt"), "w") as f:
