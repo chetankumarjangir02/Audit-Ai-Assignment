@@ -26,7 +26,7 @@ All tasks execute synchronously
 # 🚀 How to Run Locally
 # Clone Repository
 
-**git clone https://github.com/chetankumarjangir02/Harshwal-consulting-Audit-Intelligence-System**
+**git clone https://github.com/chetankumarjangir02/Audit-Ai-Assignment**
 
 # Install Dependencies
 
