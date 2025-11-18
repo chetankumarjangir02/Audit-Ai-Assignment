@@ -6,7 +6,7 @@ The Audit Intelligence System is a fully local, agent-driven financial audit ass
 
 **Streamlit UI for interaction**
 
-**LangGraph (open-source SDK) for agent workflow orchestration**
+**LangGraph (open-source SDK) for agent workflow orchestration if not work then fallback simple graph**
 
 **MongoDB for storage**
 
