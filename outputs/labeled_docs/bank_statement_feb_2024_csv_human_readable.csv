@@ -1,0 +1,13 @@
+date,description,debit,credit,balance,category
+2/1/2024,Opening Balance,0.0,2.0,50000.0,other
+2/3/2024,ATM Withdrawal,2.0,0.0,45000.0,food_dining
+2/5/2024,Salary Credited,0.0,2.0,75000.0,salary_income
+2/8/2024,Electricity Bill,2.0,0.0,71500.0,utilities
+10/2/2025,Office Rent Payment,10.0,0.0,51500.0,food_dining
+2/10/2024,Transfer from Client,0.0,2.0,66500.0,transfer
+10/10/2024,Internet Bill,10.0,0.0,65300.0,utilities
+2/14/2024,Purchase - Office Chairs,2.0,0.0,57300.0,food_dining
+5/26/2023,Cash Deposit,0.0,5.0,67300.0,salary_income
+2/21/2024,Software Subscription,2.0,0.0,64800.0,food_dining
+2/25/2024,Closing Balance,0.0,2.0,64800.0,other
+2/28/2024,{'date': '2/28/2024'},2.0,0.0,0.0,food_dining
